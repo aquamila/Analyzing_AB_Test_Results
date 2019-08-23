@@ -24,6 +24,9 @@ Data Dictionary:
 ## Technologies Used
 
 - Jupyter Notebook
-- Python
-- Python libraries NumPy, pandas, Matplotlib and Seaborn
-- Python module Statsmodels
+- Python with libraries and modules:
+  - NumPy
+  - pandas
+  - Matplotlib
+  - random
+  - Statsmodels
