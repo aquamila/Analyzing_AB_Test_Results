@@ -5,7 +5,7 @@
 
 The main goal of this project is to analyze whether the company, which has developed a new web page in order to increase the number of users who "convert", should implement this new page or keep the old page. The methods which were used to solve this problem are A/B Test and regression analyses.
 
-I analyzed the dataset and then communicated my findings about it. I shared all the steps in the Jupiter Notebook file [investigate_dataset_medical_appointment_no_shows.ipynb](https://github.com/aquamila/UDACITY_Analyze_AB_Test_Results/blob/master/analyze_ab_test_results_.ipynb).
+I analyzed the dataset and then communicated my findings about it. I shared all the steps in the Jupiter Notebook file [analyze_ab_test_results_.ipynb](https://github.com/aquamila/UDACITY_Analyze_AB_Test_Results/blob/master/analyze_ab_test_results_.ipynb).
 
 ## Data
 
