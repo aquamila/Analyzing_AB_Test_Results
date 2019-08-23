@@ -15,11 +15,11 @@ The additional dataset is [countries.csv](https://github.com/aquamila/UDACITY_An
 
 Data Dictionary:
 
-**user_id**	- user id; 
-**timestamp** - exact date and time when a user visited a page;
-**group**	- whether a user from a control or treatment group;
-**landing_page** - what page user got: new or old;
-**converted** - whether there was conversion or not.
+**user_id**	- user id;   
+**timestamp** - exact date and time when a user visited a page;  
+**group**	- whether a user from a control or treatment group;  
+**landing_page** - what page user got: new or old;  
+**converted** - whether there was conversion or not.  
 
 ## Technologies Used
 
