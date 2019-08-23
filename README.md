@@ -24,7 +24,7 @@ Data Dictionary:
 ## Technologies Used
 
 - Jupyter Notebook
-- Python with libraries and modules:
+- Python with the following libraries and modules:
   - NumPy
   - pandas
   - Matplotlib
