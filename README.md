@@ -1,5 +1,5 @@
 # UDACITY | Data Analyst Nanodegree Program
-# Project 3 Analyze A/B Test Results
+# Analyze A/B Test Results
 
 ## Overview
 
