@@ -1,4 +1,4 @@
-# UDACITY | Data Analyst Nanodegree Program 2019
+# UDACITY | Data Analyst Nanodegree Program
 # Project 3 Analyze A/B Test Results
 
 ## Overview
