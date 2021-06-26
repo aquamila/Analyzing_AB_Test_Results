@@ -1,5 +1,5 @@
-# UDACITY | Data Analyst Nanodegree Program
-# Analyze A/B Test Results
+# Analyzing A/B testing results
+# Is new advertising page better than old one?
 
 ## Overview
 
